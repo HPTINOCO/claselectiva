@@ -1,0 +1,3 @@
+Este es un archivo de ejemplo
+Este archivo lo debe bajar cuando haga ela descarga desde el contenedor
+FIN DEL ARCHIVO
